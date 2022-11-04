@@ -14,7 +14,8 @@
   },
   "plugins": ["react", "@typescript-eslint"],
   "rules": {
-    "quotes": ["error", "single"]
+    "quotes": ["error", "single"],
+    "require-jsdoc": "off"
   },
   "settings": {
     "react": {
